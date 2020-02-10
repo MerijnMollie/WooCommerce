@@ -3,11 +3,23 @@
 </p>
 <h1 align="center">Mollie for WooCommerce</h1>
   
-Quickly integrate all major payment methods in WooCommerce, wherever you need them. Simply drop them ready-made into your WooCommerce webshop with this powerful plugin by Mollie. Mollie is dedicated to making payments better for WooCommerce.
+Quickly integrate all major payment methods in WooCommerce, wherever you need them. Simply drop them ready-made into your WooCommerce webshop with this powerful plugin by Mollie. Mollie is dedicated to making payments better for WooCommerce merchants.
 
 > Next level payments, for WooCommerce
 
 No need to spend weeks on paperwork or security compliance procedures. No more lost conversions because you don’t support a shopper’s favorite payment method or because they don’t feel safe. We made payments intuitive and safe for merchants and their customers.
+
+### Description
+* Transparent pricing: No startup fees, no monthly fees, and no gateway fees. 
+No hidden fees
+* No lock-in contract, but one contract for all payment methods, no need to 
+apply for payment methods separately
+* Payment methods can easily be (de-) activated in the Mollie dashboard
+* Fast onboarding: it is possible to set up an account within 15 minutes, 
+account activation within 1-2 days
+* All important payment methods for European markets and local support
+There is a test environment. You simply can try out Mollie payments within the test 
+modus. No strings attached!
 
 ### Payment methods
 
@@ -36,11 +48,13 @@ European and local payment methods:
 * KBC/CBC payment button (Belgium)
 * SEPA - Credit Transfer (EU)
 * SEPA - Direct Debit (EU)
+* Przelewy24 (Poland) 
 * Gift cards (Netherlands)
 
 International payment methods:
 
 * PayPal (International)
+* Apple Pay (International)
 * Paysafecard (International)
 
 Pay after delivery payment methods:
